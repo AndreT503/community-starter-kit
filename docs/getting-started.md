@@ -35,7 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-Message 1
-Message 2
-Message 3
+Message test
+Message testy
+Message testier
 M
